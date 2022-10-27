@@ -1,6 +1,6 @@
 Steps to use :
-1. git clone https://github.ibm.com/PrashantP/PSP_Linux_Tools 
-or wget https://github.ibm.com/PrashantP/PSP_Linux_Tools/archive/main.zip
+1. git clone https://github.com/prashantph/PSP_Linux_Tools
+or wget https://github.com/prashantph/PSP_Linux_Tools/archive/refs/heads/main.zip
 
 2. cd PSP_Linux_Tools; 
 Specify the duration for data collection. 300-600s would be ideal, specify the tools that are suppose to run 
