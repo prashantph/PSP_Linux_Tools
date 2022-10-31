@@ -43,7 +43,7 @@ install_run_lpcpu () {
 	else
         	echo "lpcpu tool not available !!!"
 		echo "Downloading the package...."
-        	git clone  https://github.com/open-power-sdk/lpcpu
+        	git clone https://github.com/prashantph/lpcpu 
 
 	fi
 	echo "Started lpcpu"
